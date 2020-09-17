@@ -33,10 +33,6 @@ const UploadForm = () => {
                 {file && <ProgressBar file = {file} setfile = {setfile}/>}
             </div>
 
-
-
-
-
         </form>
     )
 }
